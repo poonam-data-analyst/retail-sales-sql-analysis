@@ -12,13 +12,21 @@ Dataset Description
 The dataset contains retail transaction details including:
 
 1)Transaction ID
+
 2)Sale Date and Time
+
 3)Customer ID
+
 4)Gender
+
 5)Age
+
 6)Product Category
+
 7)Quantity Purchased
+
 8)Price per Unit
+
 9)Total Sales
 
 Key Analysis Performed
