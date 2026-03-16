@@ -5,9 +5,11 @@ This project analyzes retail sales transaction data to identify sales trends, cu
 
 Tools Used
 
-SQL
-MySQL
-Dataset Description
+1)SQL
+
+2)MySQL
+
+3)Dataset Description
 
 The dataset contains retail transaction details including:
 
@@ -30,17 +32,27 @@ The dataset contains retail transaction details including:
 9)Total Sales
 
 Key Analysis Performed
-Data cleaning by identifying and handling missing values.
-Category-wise sales analysis to identify top-performing product segments.
-Customer demographic analysis based on gender and age groups.
-Monthly and yearly sales trend analysis using SQL date functions.
-Identification of top customers contributing the highest revenue.
-Ranking months based on average sales using SQL window functions.
+
+1)Data cleaning by identifying and handling missing values.
+
+2)Category-wise sales analysis to identify top-performing product segments.
+
+3)Customer demographic analysis based on gender and age groups.
+
+4)Monthly and yearly sales trend analysis using SQL date functions.
+
+5)Identification of top customers contributing the highest revenue.
+
+6)Ranking months based on average sales using SQL window functions.
 
 Skills Demonstrated
-SQL Query Writing
-Data Cleaning
-Data Aggregation
-Window Functions
+
+1)SQL Query Writing
+
+2)Data Cleaning
+
+3)Data Aggregation
+
+4)Window Functions
 
 Business Data Analysis
