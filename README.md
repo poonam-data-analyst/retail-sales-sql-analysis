@@ -1,4 +1,5 @@
 Retail Sales Data Analysis using SQL
+
 PROJECT OVERVIEW
 
 This project analyzes retail sales transaction data to identify sales trends, customer purchasing behavior, and high-performing product categories. SQL queries were used to clean the data, perform aggregations, and generate business insights.
