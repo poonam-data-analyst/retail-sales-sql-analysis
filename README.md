@@ -4,20 +4,22 @@ Project Overview
 This project analyzes retail sales transaction data to identify sales trends, customer purchasing behavior, and high-performing product categories. SQL queries were used to clean the data, perform aggregations, and generate business insights.
 
 Tools Used
+
 SQL
 MySQL
 Dataset Description
 
 The dataset contains retail transaction details including:
-Transaction ID
-Sale Date and Time
-Customer ID
-Gender
-Age
-Product Category
-Quantity Purchased
-Price per Unit
-Total Sales
+
+1)Transaction ID
+2)Sale Date and Time
+3)Customer ID
+4)Gender
+5)Age
+6)Product Category
+7)Quantity Purchased
+8)Price per Unit
+9)Total Sales
 
 Key Analysis Performed
 Data cleaning by identifying and handling missing values.
