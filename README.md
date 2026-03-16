@@ -4,6 +4,7 @@ PROJECT OVERVIEW
 
 This project analyzes retail sales transaction data to identify sales trends, customer purchasing behavior, and high-performing product categories. SQL queries were used to clean the data, perform aggregations, and generate business insights.
 
+
 TOOLS USED
 
 1)SQL
@@ -11,6 +12,7 @@ TOOLS USED
 2)MySQL
 
 3)Dataset Description
+
 
 THE DATASET CONTAINS RETAIL TRANSACTION DETAILS INCLUDING:
 
@@ -32,6 +34,7 @@ THE DATASET CONTAINS RETAIL TRANSACTION DETAILS INCLUDING:
 
 9)Total Sales
 
+
 KEY ANALYSIS PERFORMED
 
 1)Data cleaning by identifying and handling missing values.
@@ -45,6 +48,7 @@ KEY ANALYSIS PERFORMED
 5)Identification of top customers contributing the highest revenue.
 
 6)Ranking months based on average sales using SQL window functions.
+
 
 SKILLS DEMONSTRATED
 
