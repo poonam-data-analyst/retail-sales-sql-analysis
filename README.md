@@ -1,9 +1,9 @@
 Retail Sales Data Analysis using SQL
-Project Overview
+PROJECT OVERVIEW
 
 This project analyzes retail sales transaction data to identify sales trends, customer purchasing behavior, and high-performing product categories. SQL queries were used to clean the data, perform aggregations, and generate business insights.
 
-Tools Used
+TOOLS USED
 
 1)SQL
 
@@ -11,7 +11,7 @@ Tools Used
 
 3)Dataset Description
 
-The dataset contains retail transaction details including:
+THE DATASET CONTAINS RETAIL TRANSACTION DETAILS INCLUDING:
 
 1)Transaction ID
 
@@ -31,7 +31,7 @@ The dataset contains retail transaction details including:
 
 9)Total Sales
 
-Key Analysis Performed
+KEY ANALYSIS PERFORMED
 
 1)Data cleaning by identifying and handling missing values.
 
@@ -45,7 +45,7 @@ Key Analysis Performed
 
 6)Ranking months based on average sales using SQL window functions.
 
-Skills Demonstrated
+SKILLS DEMONSTRATED
 
 1)SQL Query Writing
 
@@ -55,4 +55,4 @@ Skills Demonstrated
 
 4)Window Functions
 
-Business Data Analysis
+5)Business Data Analysis
