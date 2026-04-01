@@ -1,10 +1,11 @@
-📊 Retail Sales Dashboard (SQL + Power BI)
-🔍 Overview
+## 📊 Retail Sales Dashboard (SQL + Power BI)
+
+## 🔍 Overview
 
 This project presents an interactive Retail Sales Dashboard built using Power BI and SQL.
 It provides insights into sales performance, customer behavior, and revenue trends to support data-driven decision-making.
 
-🚀 Key Features
+## 🚀 Key Features
 
 📈 KPI Cards: Total Revenue, Profit, Transactions, Quantity, Profit Margin
 
@@ -18,7 +19,7 @@ It provides insights into sales performance, customer behavior, and revenue tren
 
 🎯 Filters: Gender, Category, Date slicers for dynamic insights
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 SQL – Data extraction and transformation
 
@@ -28,7 +29,7 @@ DAX – Calculated measures and KPIs
 
 Power Query – Data cleaning and preprocessing
 
-📌 Key Insights
+## 📌 Key Insights
 
 Peak sales observed during specific hours and categories
 
